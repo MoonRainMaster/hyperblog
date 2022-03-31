@@ -1,0 +1,7 @@
+Esta es una prueba pal rm.
+
+Probaré dejar este archivo untracked, a ver que sucede.
+
+Realizaré algunos cambios pa ver que sucede.
+
+Sigo sin entederlo del todo, ahora no se le está dando seguimiento pero y ahora?
